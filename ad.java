@@ -1,8 +1,7 @@
-/**
-* @（#）:CLASSNAME.java
-* @description: Description of this java
-* @Copyright: 这是广告
-*/
+public class HelloWorld {
+
+    public static void main(String []args) {
+        System.out.println("
 
 第三四方免签支付源码/个码固码/app监控/跑分码商
 更新时间：2019-08-08
@@ -42,3 +41,6 @@ QQ:495287805 (看DEMO&购买源码)
 公告消息：可增删改 开发文档完善
 已集成WHMCS支付网关
 支付测试
+");
+    }
+}
