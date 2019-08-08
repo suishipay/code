@@ -3,6 +3,7 @@
 更新时间：2019-08-08  
 源码类型：主站JAVA 监控Android  
 主站环境：zookeeper、redis、activemq，mysql，java （高并发）  
+QQ:495287805 (合作&购买源码)  
 
 ## 下次更新功能
 
