@@ -1,15 +1,16 @@
-public class HelloWorld {
+public class ad {
 
     public static void main(String []args) {
         System.out.println("
                            
-                           /* 这是广告 */
+                           /* 这是广告 可走淘宝交易*/
 
 第三四方免签支付源码/个码固码/app监控/跑分码商
 更新时间：2019-08-08
 源码类型：主站JAVA 监控Android
 主站环境：zookeeper、redis、activemq，mysql，java （高并发）
 QQ:495287805 (看DEMO&购买源码)
+可走淘宝交易
 
 下次更新功能
 跑分系统
